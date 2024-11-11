@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+.box1{
+    width: 300px;
+    height: 100px;
+    border: 1px solid #333;
+}
+.box2{
+    width: 300px;
+    height: 100px;
+    border: 1px solid #333;
+    padding: 50px;
+}
+.box3{
+    width: 300px;
+    padding: 10px 0;
+    border: 1px solid red;
+}
+.box3 input{
+    width: 100%;
+}

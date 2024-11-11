@@ -1,0 +1,16 @@
+.m1{
+    border: 3px solid #000;
+    width: 400px;
+    margin: auto;
+}
+.m2{
+    border: 3px solid green;
+    max-width: 400px;
+    margin: auto;
+}
+.m3{
+    width: 300px;
+    height: 200px;
+    border: 3px black solid;
+    overflow: auto;
+}

@@ -1,0 +1,12 @@
+h2:nth-child(2){
+    color: red;
+}
+h3::first-line{
+    color: red;
+}
+h4::after{
+    content: "\2606";
+}
+h4::before{
+    content: "\2606";
+}

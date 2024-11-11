@@ -1,0 +1,25 @@
+.box{
+    height: 200px;
+    background: #333;
+    width: 25%;
+    float: left;
+}
+.box1{
+    background: red;
+}
+.boxox2{
+    background: green;
+}
+.box3{
+    background: blue;
+}
+.box4{
+    background: yellow;
+}
+img{
+    width: 200;
+    float: left;
+}
+p{
+    clear: both;
+}

@@ -1,0 +1,25 @@
+h2{
+    font-size: 60px;
+    text-align: center;
+    text-shadow: -2px 0 red,2px 0 red,0 2px red,0 -2px red;
+}
+.photo{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid #d4d4d4;
+}
+.photo img{
+    width: 100%;
+}
+.contant{
+    padding: 10px;
+}
+.photo h3{
+    font-size: 20px;
+    text-transform: capitalize;
+    margin: 0;
+}
+.photo:hover {
+    box-shadow: 4px 8px 10px rgba(0,0,0,0.2), -5px 5px 10px rgba(0,0,0,0.2) ;
+}
